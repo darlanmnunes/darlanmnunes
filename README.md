@@ -3,23 +3,26 @@
 </p>
 
 <p align="center">
-  <a href="http://lattes.cnpq.br/3012773334150036"><img src="https://img.shields.io/badge/Lattes-3012773334150036-1f3a56?style=flat-square&labelColor=0c1828" alt="Lattes" /></a>
-  <a href="https://orcid.org/0000-0001-5566-7919"><img src="https://img.shields.io/badge/ORCID-0000--0001--5566--7919-1f3a56?style=flat-square&logo=orcid&logoColor=A6CE39&labelColor=0c1828" alt="ORCID" /></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=57208443429"><img src="https://img.shields.io/badge/Scopus-57208443429-1f3a56?style=flat-square&logo=scopus&logoColor=E9711C&labelColor=0c1828" alt="Scopus" /></a>
-  <a href="https://www.eam.ufv.br/"><img src="https://img.shields.io/badge/UFV-Agrimensura%20e%20Cartográfica-1f3a56?style=flat-square&labelColor=0c1828" alt="UFV" /></a>
-  <a href="https://gpgeoia.com.br"><img src="https://img.shields.io/badge/GPGeoIA-gpgeoia.com.br-1f3a56?style=flat-square&labelColor=0c1828" alt="GPGeoIA" /></a>
-  <a href="mailto:darlan.nunes@ufv.br"><img src="https://img.shields.io/badge/e--mail-darlan.nunes%40ufv.br-1f3a56?style=flat-square&logo=maildotru&logoColor=f4c06a&labelColor=0c1828" alt="E-mail" /></a>
+  <a href="http://lattes.cnpq.br/3012773334150036"><img src="https://img.shields.io/badge/Lattes-3012773334150036-5eead4?style=flat-square&labelColor=132a40" alt="Lattes" /></a>
+  <a href="https://orcid.org/0000-0001-5566-7919"><img src="https://img.shields.io/badge/ORCID-0000--0001--5566--7919-A6CE39?style=flat-square&logo=orcid&logoColor=white&labelColor=132a40" alt="ORCID" /></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57208443429"><img src="https://img.shields.io/badge/Scopus-57208443429-E9711C?style=flat-square&logo=elsevier&logoColor=white&labelColor=132a40" alt="Scopus" /></a>
+  <a href="https://www.eam.ufv.br/"><img src="https://img.shields.io/badge/UFV-Agrimensura%20e%20Cartográfica-5eead4?style=flat-square&labelColor=132a40" alt="UFV" /></a>
+  <a href="https://gpgeoia.com.br"><img src="https://img.shields.io/badge/GPGeoIA-gpgeoia.com.br-B69053?style=flat-square&labelColor=132a40" alt="GPGeoIA" /></a>
+  <a href="https://x.com/DarlanMNunes1"><img src="https://img.shields.io/badge/@DarlanMNunes1-000000?style=flat-square&logo=x&logoColor=white&labelColor=132a40" alt="X" /></a>
+  <a href="mailto:darlan.nunes@ufv.br"><img src="https://img.shields.io/badge/darlan.nunes@ufv.br-f4c06a?style=flat-square&logo=maildotru&logoColor=white&labelColor=132a40" alt="E-mail" /></a>
 </p>
 
 <p align="center">
   <img src="./assets/about.svg" width="100%" alt="Formação, trajetória e destaques" />
 </p>
 
-## Sobre mim
+### Sobre mim
 
 Sou Professor Adjunto da Universidade Federal de Viçosa (UFV), com atuação na área de Engenharia de Agrimensura e Cartográfica, e líder do Grupo de Pesquisa em Inteligência Artificial Geoespacial (GPGeoIA/UFV). Desenvolvo pesquisas em Inteligência Artificial Geoespacial (GeoIA), Ciência de Dados Geoespaciais, Cartografia e Mapeamento Colaborativo.
 
-Sou Doutor em Ciências Geodésicas (2025) pela Universidade Federal do Paraná (UFPR), com a tese reconhecida pelo Prêmio UFPR de Excelência Acadêmica como a melhor do PPGCG em 2025. Sou Mestre em Engenharia Civil, área de Informações Espaciais (2016), e Bacharel em Engenharia de Agrimensura e Cartográfica (2014), ambos pela UFV. Tenho ampla experiência no Instituto Brasileiro de Geografia e Estatística (IBGE), com funções técnicas e de supervisão em produção cartográfica, sensoriamento remoto e fotogrametria, e na docência em Fotogrametria e Sistemas de Informação Geográfica (SIG) na Universidade Federal Rural do Rio de Janeiro (UFRRJ) e na Escola Nacional de Ciências Estatísticas (ENCE/IBGE).
+Sou Doutor em Ciências Geodésicas (2025) pela Universidade Federal do Paraná (UFPR), com a tese reconhecida pelo Prêmio UFPR de Excelência Acadêmica como a melhor do PPGCG em 2025. Sou Mestre em Engenharia Civil, área de Informações Espaciais (2016), e Bacharel em Engenharia de Agrimensura e Cartográfica (2014), ambos pela UFV.
+
+Tenho ampla experiência no Instituto Brasileiro de Geografia e Estatística (IBGE), com funções técnicas e de supervisão em produção cartográfica, sensoriamento remoto e fotogrametria, e na docência em Fotogrametria e Sistemas de Informação Geográfica (SIG) na Universidade Federal Rural do Rio de Janeiro (UFRRJ) e na Escola Nacional de Ciências Estatísticas (ENCE/IBGE).
 
 <details>
 <summary><b>English summary</b></summary>
@@ -29,7 +32,9 @@ I am an Adjunct Professor at the Federal University of Viçosa (UFV), Brazil, in
 
 </details>
 
-## GPGeoIA
+---
+
+### GPGeoIA
 
 <table>
   <tr>
@@ -38,7 +43,7 @@ I am an Adjunct Professor at the Federal University of Viçosa (UFV), Brazil, in
     </td>
     <td width="70%" valign="middle">
       <b>Grupo de Pesquisa em Inteligência Artificial Geoespacial</b><br />
-      <sub>Certificado no CNPq desde 2023 | Departamento de Engenharia Civil | UFV</sub>
+      <sub>Linha de pesquisa desde 2023 | Certificado no CNPq em 2026 | Setor de Eng. de Agrimensura e Cartográfica | DEC | UFV</sub>
       <br /><br />
       O GPGeoIA atua na interface entre Ciência da Informação Geoespacial e Inteligência Artificial. Desenvolvemos e aplicamos métodos, modelos e sistemas de GeoAI para integrar, analisar e interpretar dados geoespaciais multimodais, com foco em mapeamento, inteligência territorial, cidades, agricultura, meio ambiente e apoio à decisão.
       <br /><br />
@@ -54,62 +59,75 @@ I am an Adjunct Professor at the Federal University of Viçosa (UFV), Brazil, in
   </tr>
 </table>
 
-## Projetos
+---
 
-<sub><i>Aplicações para ensino e gestão do território, em ordem de criação | Teaching and land management apps, in order of creation</i></sub>
+### Projetos em destaque | *Featured projects*
+
+<sub>Em ordem de criação | <i>In order of creation</i></sub>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://darlanmnunes.github.io/map-projections-repo/"><img src="./assets/map-projections.png" alt="Projeções Cartográficas em movimento" /></a>
-      <h3>Projeções Cartográficas</h3>
-      Simuladores e animações da disciplina EAM 431 (UFV), desenhados a partir das equações das projeções: quantidades de Gauss, indicatriz de Tissot, projeções conformes e sistemas TM.<br />
-      <sub><i>Interactive simulators and animations for teaching map projections.</i></sub><br /><br />
-      <a href="https://darlanmnunes.github.io/simul_projcarto/"><img src="https://img.shields.io/badge/simuladores-abrir-1f3a56?style=flat-square&labelColor=0c1828" alt="simuladores" /></a>
-      <a href="https://darlanmnunes.github.io/map-projections-repo/"><img src="https://img.shields.io/badge/animações-abrir-1f3a56?style=flat-square&labelColor=0c1828" alt="animações" /></a>
-      <a href="https://github.com/darlanmnunes/simul_projcarto"><img src="https://img.shields.io/badge/código-simul__projcarto-1f3a56?style=flat-square&logo=github&logoColor=white&labelColor=0c1828" alt="código simuladores" /></a>
-      <a href="https://github.com/darlanmnunes/map-projections-repo"><img src="https://img.shields.io/badge/código-map--projections-1f3a56?style=flat-square&logo=github&logoColor=white&labelColor=0c1828" alt="código animações" /></a>
+      <h4>Projeções Cartográficas em movimento</h4>
+      Simuladores e animações didáticas da disciplina EAM 431 (UFV), desenhados a partir das equações das projeções, com geometria exata em Python e JavaScript.<br />
+      <sub><i>Interactive simulators and teaching animations for map projections, built from the math.</i></sub><br /><br />
+      <a href="https://darlanmnunes.github.io/simul_projcarto/"><img src="https://img.shields.io/badge/simuladores-ver%20online-5eead4?style=flat-square&labelColor=132a40" alt="simuladores" /></a>
+      <a href="https://darlanmnunes.github.io/map-projections-repo/"><img src="https://img.shields.io/badge/animações-ver%20online-5eead4?style=flat-square&labelColor=132a40" alt="animações" /></a>
+      <a href="https://github.com/darlanmnunes/simul_projcarto"><img src="https://img.shields.io/badge/código-simuladores-e8eef5?style=flat-square&logo=github&logoColor=white&labelColor=132a40" alt="código dos simuladores" /></a>
+      <a href="https://github.com/darlanmnunes/map-projections-repo"><img src="https://img.shields.io/badge/código-animações-e8eef5?style=flat-square&logo=github&logoColor=white&labelColor=132a40" alt="código das animações" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-132a40?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Python-132a40?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
     </td>
     <td width="50%" valign="top">
       <a href="https://darlanmnunes.github.io/geo-fundiario/"><img src="./assets/geo-fundiario.png" alt="Geo-Fundiário" /></a>
-      <h3>Geo-Fundiário</h3>
+      <h4>Geo-Fundiário</h4>
       Gestão fundiária para prefeituras: cadastro, mapa, memorial, planta e as 10 fases da REURB, do levantamento de campo ao registro.<br />
       <sub><i>Land regularization (REURB) platform for municipalities.</i></sub><br /><br />
-      <a href="https://darlanmnunes.github.io/geo-fundiario/"><img src="https://img.shields.io/badge/demonstração-abrir-1f3a56?style=flat-square&labelColor=0c1828" alt="demonstração" /></a>
-      <a href="https://github.com/darlanmnunes/geo-fundiario"><img src="https://img.shields.io/badge/código-GitHub-1f3a56?style=flat-square&logo=github&logoColor=white&labelColor=0c1828" alt="código" /></a>
+      <a href="https://darlanmnunes.github.io/geo-fundiario/"><img src="https://img.shields.io/badge/demo-ver%20online-5eead4?style=flat-square&labelColor=132a40" alt="demo" /></a>
+      <a href="https://github.com/darlanmnunes/geo-fundiario"><img src="https://img.shields.io/badge/código-GitHub-e8eef5?style=flat-square&logo=github&logoColor=white&labelColor=132a40" alt="código" /></a>
+      <img src="https://img.shields.io/badge/JavaScript-132a40?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://darlanmnunes.github.io/lea-eam-ufv/"><img src="./assets/lea-eam-ufv.png" alt="Acervo do LEA" /></a>
-      <h3>Acervo do LEA</h3>
-      Equipamentos, aulas práticas e empréstimos com assinatura digital do Laboratório de Engenharia de Agrimensura e Cartográfica da UFV.<br />
+      <h4>Acervo do LEA | UFV</h4>
+      Equipamentos, aulas práticas e empréstimos com assinatura digital do Laboratório de Engenharia de Agrimensura e Cartográfica.<br />
       <sub><i>Surveying lab inventory and equipment loan system.</i></sub><br /><br />
-      <a href="https://darlanmnunes.github.io/lea-eam-ufv/"><img src="https://img.shields.io/badge/site-abrir-1f3a56?style=flat-square&labelColor=0c1828" alt="site" /></a>
-      <a href="https://github.com/darlanmnunes/lea-eam-ufv"><img src="https://img.shields.io/badge/código-GitHub-1f3a56?style=flat-square&logo=github&logoColor=white&labelColor=0c1828" alt="código" /></a>
+      <a href="https://darlanmnunes.github.io/lea-eam-ufv/"><img src="https://img.shields.io/badge/demo-ver%20online-5eead4?style=flat-square&labelColor=132a40" alt="demo" /></a>
+      <a href="https://github.com/darlanmnunes/lea-eam-ufv"><img src="https://img.shields.io/badge/código-GitHub-e8eef5?style=flat-square&logo=github&logoColor=white&labelColor=132a40" alt="código" /></a>
+      <img src="https://img.shields.io/badge/React-132a40?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Supabase-132a40?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
     </td>
     <td width="50%" valign="top">
       <a href="https://darlanmnunes.github.io/oferta-eam-ufv/"><img src="./assets/oferta-eam-ufv.png" alt="Oferta de disciplinas" /></a>
-      <h3>Oferta de disciplinas EAM</h3>
-      Disciplinas, horários, salas e carga docente do curso de Engenharia de Agrimensura e Cartográfica, com a semana de cada período e a ocupação do laboratório.<br />
+      <h4>Oferta de disciplinas | EAM-UFV</h4>
+      Disciplinas, horários, salas e carga docente do curso, com a semana de cada período e a ocupação do laboratório.<br />
       <sub><i>Course offering, timetable and room planner.</i></sub><br /><br />
-      <a href="https://darlanmnunes.github.io/oferta-eam-ufv/"><img src="https://img.shields.io/badge/site-abrir-1f3a56?style=flat-square&labelColor=0c1828" alt="site" /></a>
-      <a href="https://github.com/darlanmnunes/oferta-eam-ufv"><img src="https://img.shields.io/badge/código-GitHub-1f3a56?style=flat-square&logo=github&logoColor=white&labelColor=0c1828" alt="código" /></a>
+      <a href="https://darlanmnunes.github.io/oferta-eam-ufv/"><img src="https://img.shields.io/badge/demo-ver%20online-5eead4?style=flat-square&labelColor=132a40" alt="demo" /></a>
+      <a href="https://github.com/darlanmnunes/oferta-eam-ufv"><img src="https://img.shields.io/badge/código-GitHub-e8eef5?style=flat-square&logo=github&logoColor=white&labelColor=132a40" alt="código" /></a>
+      <img src="https://img.shields.io/badge/TypeScript-132a40?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Supabase-132a40?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
     </td>
   </tr>
 </table>
 
-## Pesquisa com código aberto
+---
+
+### Pesquisa com código aberto | *Open research*
 
 Código, dados e resultados das etapas do doutorado, prontos para reprodução.
 
 | Repositório | Tema |
 |---|---|
-| [PhD_Thesis_Step1_OSM_Toponyms](https://github.com/darlanmnunes/PhD_Thesis_Step1_OSM_Toponyms) | Topônimos colaborativos no OpenStreetMap e parâmetros intrínsecos de qualidade |
-| [INDE_UN-GGIM_Themes](https://github.com/darlanmnunes/INDE_UN-GGIM_Themes) | Adequação da INDE brasileira aos temas fundamentais da UN-GGIM e à Agenda 2030 |
-| [PhD_Thesis_Step2_OSM_Toponyms](https://github.com/darlanmnunes/PhD_Thesis_Step2_OSM_Toponyms) | Extração de topônimos com IA em imagens de nível de rua para validar o OpenStreetMap |
+| [**PhD_Thesis_Step1_OSM_Toponyms**](https://github.com/darlanmnunes/PhD_Thesis_Step1_OSM_Toponyms) | Topônimos colaborativos no OpenStreetMap e parâmetros intrínsecos de qualidade |
+| [**INDE_UN-GGIM_Themes**](https://github.com/darlanmnunes/INDE_UN-GGIM_Themes) | Adequação da INDE brasileira aos temas fundamentais da UN-GGIM e à Agenda 2030 |
+| [**PhD_Thesis_Step2_OSM_Toponyms**](https://github.com/darlanmnunes/PhD_Thesis_Step2_OSM_Toponyms) | Extração de topônimos com IA em imagens de nível de rua para validar o OpenStreetMap |
 
-## Ferramentas
+---
+
+### Ferramentas | *Toolbox*
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css,supabase,postgres,git,github,vscode,linux&perline=12" alt="Python, JavaScript, TypeScript, React, HTML, CSS, Supabase, PostgreSQL, Git, GitHub, VS Code, Linux" />
